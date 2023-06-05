@@ -3,8 +3,8 @@ C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REP
 C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\bin\Debug\PRIMER_REPOSITORIO.exe
 C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\bin\Debug\PRIMER_REPOSITORIO.pdb
 C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\obj\Debug\PRIMER_REPOSITORIO.csprojResolveAssemblyReference.cache
-C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\obj\Debug\PRIMER_REPOSITORIO.Form1.resources
 C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\obj\Debug\PRIMER_REPOSITORIO.Properties.Resources.resources
 C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\obj\Debug\PRIMER_REPOSITORIO.csproj.GenerateResource.Cache
 C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\obj\Debug\PRIMER_REPOSITORIO.exe
 C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\obj\Debug\PRIMER_REPOSITORIO.pdb
+C:\Users\alumno\Documentos\Proyectos visual studio\PRIMER_REPOSITORIO\PRIMER_REPOSITORIO\obj\Debug\PRIMER_REPOSITORIO.FRMprincipal.resources

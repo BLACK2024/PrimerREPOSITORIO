@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PRIMER_REPOSITORIO
 {
-    public partial class Form1 : Form
+    public partial class FRMprincipal : Form
     {
-        public Form1()
+        public FRMprincipal()
         {
             InitializeComponent();
         }
@@ -20,6 +20,11 @@ namespace PRIMER_REPOSITORIO
         private void Form1_Load(object sender, EventArgs e)
         {
             this.Opacity -= 0.1;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "hola mundito";
         }
     }
 }
