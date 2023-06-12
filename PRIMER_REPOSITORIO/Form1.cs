@@ -24,7 +24,7 @@ namespace PRIMER_REPOSITORIO
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "hola mundito";
+            LBLhola.Text = "hola mundito";
         }
     }
 }

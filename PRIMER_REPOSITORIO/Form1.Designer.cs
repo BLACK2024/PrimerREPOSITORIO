@@ -28,45 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.BTNhola = new System.Windows.Forms.Button();
+            this.LBLhola = new System.Windows.Forms.Label();
+            this.BTNotroboton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // BTNhola
             // 
-            this.button1.Location = new System.Drawing.Point(167, 186);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.BTNhola.Location = new System.Drawing.Point(169, 130);
+            this.BTNhola.Name = "BTNhola";
+            this.BTNhola.Size = new System.Drawing.Size(75, 23);
+            this.BTNhola.TabIndex = 0;
+            this.BTNhola.Text = "HOLA";
+            this.BTNhola.UseVisualStyleBackColor = true;
+            this.BTNhola.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // LBLhola
             // 
-            this.button2.Location = new System.Drawing.Point(280, 186);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 1;
-            this.button2.UseVisualStyleBackColor = true;
+            this.LBLhola.AutoSize = true;
+            this.LBLhola.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F);
+            this.LBLhola.Location = new System.Drawing.Point(162, 64);
+            this.LBLhola.Name = "LBLhola";
+            this.LBLhola.Size = new System.Drawing.Size(82, 39);
+            this.LBLhola.TabIndex = 2;
+            this.LBLhola.Text = "hola";
             // 
-            // label1
+            // BTNotroboton
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(230, 64);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(27, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "hola";
+            this.BTNotroboton.Location = new System.Drawing.Point(169, 193);
+            this.BTNotroboton.Name = "BTNotroboton";
+            this.BTNotroboton.Size = new System.Drawing.Size(75, 23);
+            this.BTNotroboton.TabIndex = 3;
+            this.BTNotroboton.Text = "Otro boton";
+            this.BTNotroboton.UseVisualStyleBackColor = true;
             // 
             // FRMprincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(687, 400);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(442, 248);
+            this.Controls.Add(this.BTNotroboton);
+            this.Controls.Add(this.LBLhola);
+            this.Controls.Add(this.BTNhola);
             this.Name = "FRMprincipal";
             this.Text = "priuncipal";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -77,9 +80,9 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button BTNhola;
+        private System.Windows.Forms.Label LBLhola;
+        private System.Windows.Forms.Button BTNotroboton;
     }
 }
 
